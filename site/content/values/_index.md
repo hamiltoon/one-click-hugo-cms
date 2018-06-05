@@ -1,5 +1,5 @@
 ---
-title: Valueses!
+title: Valueses
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
